@@ -1,0 +1,6 @@
+echo "# base de datos" >> README.md 
+git init 
+git add README.md 
+git commit -m "primera comprometerse" 
+git remote add origen https://github.com/Elbrejer/database.git
+ git push origin master -u
